@@ -1,0 +1,10 @@
+.video_play_button {
+    position: relative;
+    color: white;
+    bottom: 60%;
+    text-align: center;
+}
+.video_play_button :first-child {
+    font-size: 4rem !important;
+    cursor: pointer;
+}
