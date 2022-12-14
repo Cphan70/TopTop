@@ -20,6 +20,7 @@
         "classnames": "^2.3.1",
         "customize-cra": "^1.0.0",
         "normalize.css": "^8.0.1",
+        "persist": "^0.2.7",
         "react": "^18.2.0",
         "react-app-rewired": "^2.2.1",
         "react-dom": "^18.2.0",
@@ -27,6 +28,8 @@
         "react-redux": "^8.0.5",
         "react-router-dom": "^6.3.0",
         "react-scripts": "5.0.1",
+        "redux": "^4.2.0",
+        "redux-persist": "^6.0.0",
         "tippy.js": "^6.3.7",
         "video-react": "^0.16.0",
         "web-vitals": "^2.1.4"

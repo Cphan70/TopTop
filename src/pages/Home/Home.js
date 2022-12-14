@@ -32,8 +32,6 @@ function Home() {
 
     if (isError) return <p className="center">Error: {error.message}</p>;
 
-    console.log(results);
-
     const content = results.map((post, i) => {
         if (results.length === i + 1) {
             return <VideoItem ref={lastPostRef} key={post.id} data={post} />;
